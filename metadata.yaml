@@ -1,0 +1,35 @@
+_repo: The-Dust-Flower_28590
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kline, Hibberd V. B. (Hibberd Van Buren)
+    alias: Kline, Hibbard V. B.
+    birthdate: 1885
+    gutenberg_agent_id: '33431'
+    url: http://www.gutenberg.org/2009/agents/33431
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Basil
+    alias: King, William Benjamin Basil
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '3214'
+    url: http://www.gutenberg.org/2009/agents/3214
+description: ''
+gutenberg_issued: '2009-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+title: The Dust Flower
+url: http://www.gutenberg.org/ebooks/28590
